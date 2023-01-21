@@ -1,11 +1,49 @@
-Olá, me chamo Romulo Santos, tenho 31 anos, sou formado em sistemas da informação(2018), porém, nunca me dediquei a programação, trabalho na area de TI desde 2011.
-Nesses 11 anos, sempre atuei como suporte técnico, passei por atendimento de campo, suporte na area de telecom e trabalhei 7 meses em uma empresa de consultoria, onde realizada atendimentos basico de helpdesk, a manutenção de servidores e rotinas de backup.
-Atualmente trabalho em uma software house, atuando na equipe de PDV, como suporte N2 em sistemas de hotelaria.
+<h1 align="center"> Habits </h1>
 
-Como meta pessoal, descidi em em 2023 iria estudar programação de verdade, iniciando os estudos em Javascript, Typescript e CSS.
-Inicialmente, flerto com a ideia de ser um desenvolvedor backend, mas, veremos onde meus conhecimentos irão me levar.
+<p align="center">
+NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+</p>
 
-Sou grato aos meus amigos e incentivadores para essa nova jornada.
-Jimmy Huang
-Lucas  Godoy, aka Wuzi
-Aislan James
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
+O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online](https://rmlsilva.github.io/nlw-setup)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
