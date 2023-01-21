@@ -6,6 +6,6 @@ Como meta pessoal, descidi que em 2023 iria estudar programação de verdade, in
 Inicialmente, flerto com a ideia de ser um desenvolvedor backend, mas, veremos onde meus conhecimentos irão me levar.
 
 Sou grato aos meus amigos e incentivadores para essa nova jornada.
--Jimmy Huang
--Lucas  Godoy, aka Wuzi
--Aislan James
+<br>Jimmy Huang
+<br>Lucas  Godoy, aka Wuzi
+<br>Aislan James
